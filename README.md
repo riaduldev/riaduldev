@@ -96,18 +96,42 @@ Full-Stack Development
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
+
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riaduldev&show_icons=true&hide_border=true&rank_icon=github" alt="Riadul's GitHub Stats" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=riaduldev&show_icons=true&hide_border=true"
+    alt="Riadul's GitHub Stats"
+  />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riaduldev&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
+### 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riaduldev&hide_border=true" alt="GitHub Streak" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=riaduldev&layout=compact&hide_border=true"
+    alt="Most Used Languages"
+  />
+</p>
+
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=riaduldev&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+### 📅 Contribution Activity
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=riaduldev&hide_border=true"
+    alt="GitHub Contribution Activity"
+  />
 </p>
 
 ---
