@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="./wide_clean_modern_tech_themed_banner_cover_image.png" 
+    src="/github-banner.png" 
     alt="Riadul Islam - Web Developer"
     width="100%"
   />
