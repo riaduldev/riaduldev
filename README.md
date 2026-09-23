@@ -59,6 +59,13 @@
 </p>
 
 ---
+<!-- ===================== ABOUT ME ===================== -->
+
+## 👨‍💻 About Me
+
+I'm an aspiring web developer from **Pabna, Bangladesh**, passionate about building modern, responsive and user-friendly web applications.
+
+I'm currently focused on strengthening my skills in **JavaScript, TypeScript, React and Next.js** by building real-world projects and continuously learning new technologies.
 
 ## 🚀 What I'm Currently Learning
 
