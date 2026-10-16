@@ -150,10 +150,9 @@ Full-Stack Development
 
   <a href="https://www.linkedin.com/in/riaduldev365/" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg"
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"
       alt="LinkedIn"
       height="35"
-      width="45"
     />
   </a>
 </p>
