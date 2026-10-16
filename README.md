@@ -140,7 +140,21 @@ Full-Stack Development
 
 <p align="left">
   <a href="https://www.facebook.com/riadul111/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="35" width="45"/>
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+      alt="Facebook"
+      height="35"
+      width="45"
+    />
+  </a>
+
+  <a href="https://www.linkedin.com/in/riaduldev365/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg"
+      alt="LinkedIn"
+      height="35"
+      width="45"
+    />
   </a>
 </p>
 
